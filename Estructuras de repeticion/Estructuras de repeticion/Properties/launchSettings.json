@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Estructuras de repeticion": {
+      "commandName": "Project",
+      "commandLineArgs": "geronimo 123 234 lara angela andres caca pollo perro gato capiroto negro"
+    }
+  }
+}

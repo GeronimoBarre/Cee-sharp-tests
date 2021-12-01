@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ListaDeProductos": {
+      "commandName": "Project",
+      "commandLineArgs": "lechuga pollo tomate cocaina caca computadora"
+    }
+  }
+}
