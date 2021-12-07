@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ListaProductosConClasse": {
+      "commandName": "Project",
+      "commandLineArgs": "Fernet Gaseosa Alverjas Caca"
+    }
+  }
+}
